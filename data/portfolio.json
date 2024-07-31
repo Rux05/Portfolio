@@ -1,0 +1,23 @@
+[
+  {
+    "image": "image1.png",
+    "alt": "Image Booki",
+    "title": "Booki",
+    "text": "Développement de la page d'accueil responsive pour la plateforme Booki, spécialisée dans la réservation de vacances. Utilisation de HTML et CSS pour intégrer le contenu selon une maquette et configurer un environnement de développement front-end.",
+    "link": "https://github.com/Rux05/Project-3"
+  },
+  {
+    "image": "image2.png",
+    "alt": "Image Mon Vieux grimoire",
+    "title": "Mon Vieux grimoire",
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "link": "#"
+  },
+  {
+    "image": "image3.png",
+    "alt": "Image Kasa  ",
+    "title": "Kasa",
+    "text": "Développement de l'application web de location immobilière Kasa avec React. Mise en place des composants et des routes avec React Router pour une navigation fluide. Intégration des données via API et application d'animations CSS pour améliorer l'expérience utilisateur.",
+    "link": "https://github.com/Rux05/Project-8/"
+  }
+]
