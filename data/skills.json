@@ -1,38 +1,42 @@
 [
     {
-        "image": "html-css.jpg",
+        "image": "html-css-400px-min.jpg",
         "alt": "Logo HTML și CSS",
         "title": "HTML - CSS",
-        "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS"
+        "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS",
+        "link": "https://github.com/Rux05/Project-3"
     },
     {
-        "image": "js.jpg",
+        "image": "js-200-min.jpg",
         "alt": "Logo JavaScript",
         "title": "javascript",
-        "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires"
+        "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires",
+        "link": "https://github.com/Rux05/Project_7"
     },
     {
-        "image": "react.jpg",
+        "image": "react-300px-min.webp",
         "alt": "Logo React",
         "title": "React",
-        "text": "Création d’applications React, création de composants et manipulation de leur état"
+        "text": "Création d’applications React, création de composants et manipulation de leur état",
+        "link": "https://github.com/Rux05/Project-8"
     },
     {
-        "image": "gestion-de-projet.png",
+        "image": "gestion-de-projet-min.png",
         "alt": "Gestion de projet",
         "title": "Gestion de projet",
         "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet"
     },
     {
-        "image": "optimisation-et-debug.png",
+        "image": "optimisation-et-debug-min.png",
         "alt": "Debug",
         "title": "Debug",
         "text": "Identification des anomalies et correction d’un site existant"
     },
     {
-        "image": "test.png",
+        "image": "test-min.png",
         "alt": "Image Test",
         "title": "Test",
-        "text": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API"
+        "text": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API",
+        "link": "https://github.com/Rux05/Project-10"
     }
 ]

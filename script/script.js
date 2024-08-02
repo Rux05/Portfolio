@@ -38,13 +38,17 @@ function createSkillsFromJSON() {
         const card = document.createElement("div");
         card.classList.add("col-lg-4", "mt-4");
         card.innerHTML = `
+                <a href="${item.link}" class="link-skills-card" target="_blank">
                     <div class="card skillsText">
                         <div class="card-body">
                             <img src="./images/${item.image}" alt="${item.alt}"  />
                             <h4 class="card-title mt-3">${item.title}</h4>
                             <p class="card-text mt-3">${item.text}</p>
+                            <div class="text-center">
+                            </div>
                         </div>
                     </div>
+                </a>
                 `;
 
         // Append the card to the current row

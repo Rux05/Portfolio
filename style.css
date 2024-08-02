@@ -20,10 +20,12 @@
 /* display background dark color on navbar scroll */
 .navbarScroll.navbarDark {
     background-color: #5b5b5b;
+    /* background-color: transparent; */
 }
 
 .fixed-top {
-    background-color: #5b5b5b;
+    background-color: transparent;
+    position: absolute !important;
 }
 
 /* .navbar-dark {
@@ -34,19 +36,24 @@
 .bgimage {
     height: 100vh;
     max-height: 900px;
-    background: url("images/software-testing.png");
+    background: linear-gradient(to bottom, rgba(6, 29, 48, 1) 17%, rgba(68, 77, 94, 0.9) 40%, rgba(128, 131, 145, 0.7) 60%, rgba(191, 191, 198, 0.5) 80%, rgba(255, 255, 255, 0.3) 90%), url("images/pxfuel1.jpg");
     background-size: cover;
     position: relative;
 }
 /* text css above hero image*/
+
+.text-about-me {
+    background-color: rgba(91, 91, 91, 0.4);
+}
+
 .hero_title {
     font-size: 4.5rem;
     /* background-color: #5b5b5b; */
-    background-color: rgba(91, 91, 91, 0.4);
+    /* background-color: rgba(91, 91, 91, 0.4); */
 }
 .hero_desc {
     font-size: 2rem;
-    background-color: rgba(91, 91, 91, 0.4);
+    /* background-color: rgba(91, 91, 91, 0.4); */
 }
 .hero-text {
     text-align: center;
@@ -71,6 +78,11 @@
     height: 350px;
     cursor: pointer;
 }
+
+.link-skills-card {
+    text-decoration: none !important; 
+    color: inherit; 
+}
 .skillsText img {
     width: 100%;
     height: 150px;
@@ -90,6 +102,24 @@
 .card:hover .skillsIcon {
     color: #008000;
 }
+
+.card-img, .card-img-top {
+    border: 1px solid rgba(0, 0, 0, .125);
+}
+
+/* .card a {
+    text-decoration: none !important;
+    color: inherit; 
+}
+
+.card a:hover {
+    text-decoration: none; 
+}
+
+.card .card-title, .card .card-text {
+    color: inherit; /* Ensures the text keeps its inherited color */
+/* } */ 
+
 .skillsText:hover {
     border: 1px solid #008000;
 }
