@@ -1,13 +1,13 @@
 [
     {
-        "image": "html-css-400px-min.jpg",
+        "image": "html-css-400px-min.webp",
         "alt": "Logo HTML și CSS",
         "title": "HTML - CSS",
         "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS",
         "link": "https://github.com/Rux05/Project-3"
     },
     {
-        "image": "js-200-min.jpg",
+        "image": "js-200-min.webp",
         "alt": "Logo JavaScript",
         "title": "javascript",
         "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires",
