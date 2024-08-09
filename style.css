@@ -19,18 +19,15 @@
 
 /* display background dark color on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: #5b5b5b;
-    /* background-color: transparent; */
+    background-color: white;
+    -webkit-box-shadow: 5px 7px 15px 5px rgba(0,0,0,0.43); 
+    box-shadow: 5px 7px 15px 5px rgba(0,0,0,0.43);
 }
 
-.fixed-top {
-    background-color: transparent;
-    position: absolute !important;
+.navbarScroll.navbarDark a {
+    color: black !important;
 }
 
-/* .navbar-dark {
-    opacity: 0.9;
-} */
 
 /* hero background image */
 .bgimage {
@@ -100,33 +97,37 @@
     text-align: center;
 }
 .card:hover .skillsIcon {
-    color: #008000;
+    color: #9261b8;
 }
 
 .card-img, .card-img-top {
     border: 1px solid rgba(0, 0, 0, .125);
 }
 
-/* .card a {
-    text-decoration: none !important;
-    color: inherit; 
+.card {
+    -webkit-box-shadow: 5px 7px 9px 3px rgba(0,0,0,0.21); 
+    box-shadow: 5px 7px 9px 3px rgba(0,0,0,0.21);
 }
 
-.card a:hover {
-    text-decoration: none; 
-}
-
-.card .card-title, .card .card-text {
-    color: inherit; /* Ensures the text keeps its inherited color */
-/* } */ 
 
 .skillsText:hover {
-    border: 1px solid #008000;
+    border: 1px solid #9261b8;
+    color: #7d4da3;
 }
 
 /* portfolio */
+#portfolio {
+    background-color: #F2E6FF;
+    padding-bottom: 25px;
+}
+
 #portfolio p {
     text-align: center;
+}
+
+.btn-success {
+    background-color: #9261b8 !important;
+    border-color: #9261b8 !important;
 }
 
 /* contact */
