@@ -28,6 +28,13 @@
     color: black !important;
 }
 
+.logo {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    top: -6px;
+    left: -65px;
+}
 
 /* hero background image */
 .bgimage {
