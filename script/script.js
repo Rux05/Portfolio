@@ -5,8 +5,12 @@ function handleNavbarScroll() {
     const top = window.scrollY;
     if (top >= 100) {
       header.classList.add("navbarDark");
+      header.classList.add("navbar-light");
+      header.classList.remove("navbar-dark");
     } else {
       header.classList.remove("navbarDark");
+      header.classList.add("navbar-dark");
+      header.classList.remove("navbar-light");
     }
   };
 }
