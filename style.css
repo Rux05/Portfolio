@@ -36,21 +36,6 @@
 .navbarScroll.navbarDark a {
     color: black !important;
 }
-/* .navbar-dark {
-    background: rgb(11,117,138);
-    background: linear-gradient(90deg, rgba(11,117,138,1) 2%, rgba(18,18,89,1) 93%, rgba(31,28,102,1) 100%);
-} */
-/* 
-.navbarDark .navbar-nav .nav-link {
-    color: black !important;
-  } */
-
-/* .navbarDark .navbar-toggler {
-    color: black !important;
-    border-color: black !important;
-    background-color: transparent;
-    border: 1px solid black !important;
-} */
 
 .logo {
     position: relative;
@@ -78,12 +63,9 @@
 
 .hero_title {
     font-size: 4.5rem;
-    /* background-color: #5b5b5b; */
-    /* background-color: rgba(91, 91, 91, 0.4); */
 }
 .hero_desc {
     font-size: 2rem;
-    /* background-color: rgba(91, 91, 91, 0.4); */
 }
 .hero-text {
     text-align: center;
