@@ -25,14 +25,14 @@
         "alt": "Gestion de projet",
         "title": "Gestion de projet",
         "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet",
-        "link": "Portfolio/pdf/Strat_Ruxandra_Gestion_projet_Kanban_P9.pdf"
+        "link": "https://rux05.github.io/Portfolio/pdf/Strat_Ruxandra_Gestion_projet_Kanban_P9.pdf"
     },
     {
         "image": "optimisation-et-debug-min.webp",
         "alt": "Debug",
         "title": "Debug",
         "text": "Identification des anomalies et correction d’un site existant, grâce à une méthodologie de tests exploratoires et fonctionnels.",
-        "link": "Portfolio/pdf/Strat_Ruxandra_bilan_de_campagne_de_tests_P5.pdf"
+        "link": "https://rux05.github.io/Portfolio/pdf/Strat_Ruxandra_bilan_de_campagne_de_tests_P5.pdf"
     },
     {
         "image": "test-min.webp",
